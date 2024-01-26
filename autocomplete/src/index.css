@@ -1,0 +1,7 @@
+body{
+  text-align: center;
+  background-image: url('planet.avif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
